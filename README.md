@@ -1,6 +1,10 @@
 # Inkscape-course
 A repository that contains material for the "scientific illustration in inkscape" course
 
+#color palettes
+##GeoDataViz palettes
+The GeoDataViz color maps were obtained from https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit
+
 
 ## ColorBrewer inkscape palettes
 These palettes are modified versions of the Color Brewer palettes which are available under the licence below.
