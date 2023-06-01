@@ -1,5 +1,5 @@
 # Inkscape-course
-A repository that contains material for the "scientific illustration in inkscape" course
+A repository that contains material for the "scientific illustration in inkscape" course. Especially it contains scientific color palettes obtained from different sources:
 
 # Scientific color palettes
 ## GeoDataViz palettes
